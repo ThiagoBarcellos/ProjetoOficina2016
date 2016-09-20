@@ -22,7 +22,7 @@ public class Player1 : MonoBehaviour
 	{
 		if (Input.GetKeyDown(KeyCode.W) && grounded == true)
 		{
-			rb.AddForce(Vector2.up * 250f);
+			rb.AddForce(Vector2.up * 350f);
 			grounded = false;
 			//transform.Translate(new Vector2(0, 0.2f));
 		}
@@ -78,6 +78,9 @@ public class Player1 : MonoBehaviour
 		time++;
 		if (time == 150 /*&& gameObject.tag == "urubuzinho"*/) {
 			Tirosdisponiveis++;
+			time = 0;
+		}
+		if (Tirosdisponiveis == tirosmaximos) {
 			time = 0;
 		}
 
