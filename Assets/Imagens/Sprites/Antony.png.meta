@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: cd8fe1a4f7dde01449fb06c48bf913d8
+timeCreated: 1476030745
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Antony_0
+    21300002: Antony_1
+    21300004: Antony_2
+    21300006: Antony_3
+    21300008: Antony_4
+    21300010: Antony_5
+    21300012: Antony_6
+    21300014: Antony_7
+    21300016: Antony_8
+    21300018: Antony_9
+    21300020: Antony_10
+    21300022: Antony_11
+    21300024: Antony_12
+    21300026: Antony_13
+    21300028: Antony_14
+    21300030: Antony_15
+    21300032: Antony_16
+    21300034: Antony_17
+    21300036: Antony_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Antony_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3137
+        width: 378
+        height: 518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3161
+        width: 211
+        height: 493
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_2
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3161
+        width: 222
+        height: 494
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_3
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 3149
+        width: 204
+        height: 506
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_4
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3173
+        width: 252
+        height: 482
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2476
+        width: 229
+        height: 499
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2464
+        width: 204
+        height: 547
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2506
+        width: 235
+        height: 493
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2560
+        width: 252
+        height: 517
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_9
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2518
+        width: 229
+        height: 535
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_10
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2548
+        width: 198
+        height: 505
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_11
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1767
+        width: 294
+        height: 541
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1749
+        width: 318
+        height: 553
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1761
+        width: 241
+        height: 559
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 181
+        height: 589
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1281
+        width: 282
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1305
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1269
+        width: 348
+        height: 378
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antony_18
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1275
+        width: 348
+        height: 372
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

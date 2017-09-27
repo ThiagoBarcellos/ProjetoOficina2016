@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: c41839c409d88f84bbd543e7b9b44069
+timeCreated: 1475973109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jimmy_0
+    21300002: jimmy_1
+    21300004: jimmy_2
+    21300006: jimmy_3
+    21300008: jimmy_4
+    21300010: jimmy_5
+    21300012: jimmy_6
+    21300014: jimmy_7
+    21300016: jimmy_8
+    21300018: jimmy_9
+    21300020: jimmy_10
+    21300022: jimmy_11
+    21300024: jimmy_12
+    21300026: jimmy_13
+    21300028: jimmy_14
+    21300030: jimmy_15
+    21300032: jimmy_16
+    21300034: jimmy_17
+    21300036: jimmy_18
+    21300038: jimmy_19
+    21300040: jimmy_20
+    21300042: jimmy_21
+    21300044: jimmy_22
+    21300046: jimmy_23
+    21300048: jimmy_24
+    21300050: jimmy_25
+    21300052: jimmy_26
+    21300054: jimmy_27
+    21300056: jimmy_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jimmy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2735
+        width: 320
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2756
+        width: 311
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_2
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2729
+        width: 375
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_3
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2708
+        width: 386
+        height: 553
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_4
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2719
+        width: 380
+        height: 541
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_5
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2713
+        width: 300
+        height: 548
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_6
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 2745
+        width: 348
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_7
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 2702
+        width: 375
+        height: 559
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_8
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 2713
+        width: 375
+        height: 548
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_9
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 2676
+        width: 369
+        height: 585
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_10
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 2660
+        width: 375
+        height: 601
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_11
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 2633
+        width: 306
+        height: 628
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_12
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 2611
+        width: 304
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 363
+        height: 702
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1764
+        width: 316
+        height: 590
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1759
+        width: 327
+        height: 558
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_16
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1781
+        width: 337
+        height: 530
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_17
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1775
+        width: 348
+        height: 547
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_18
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1748
+        width: 300
+        height: 569
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 585
+        width: 386
+        height: 568
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 607
+        width: 327
+        height: 563
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_21
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 612
+        width: 450
+        height: 552
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_22
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 628
+        width: 424
+        height: 552
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_23
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 623
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 343
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_25
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 359
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_26
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 0
+        width: 348
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_27
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 0
+        width: 343
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jimmy_28
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 0
+        width: 290
+        height: 371
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
